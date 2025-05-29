@@ -88,6 +88,26 @@ VeraDSL is designed to be modular and interoperable with a wide range of AI deve
 
 ---
 
+### 🏗️ Layered Stack Overview
+
+| Layer              | Role                                             | Analogy                          |
+|--------------------|--------------------------------------------------|----------------------------------|
+| **VeraPoetry**     | Natural language symbolic invocation layer       | ShaderLab / JSX / Unreal Blueprints |
+| **VeraDSL**        | Symbolic AI agent composition & orchestration    | HLSL / GLSL / Domain-Specific Scripting |
+| **Dex**            | Differentiable logic execution engine            | JAX / LLVM dialect               |
+| **VeraNL**         | Low-level NPU abstraction and operation API      | Vulkan / Metal / C++             |
+| **VeraForgeIR**    | Intermediate representation for compiling to NPU | LLVM IR / SPIR-V                 |
+| **NPU Bytecode**   | Hardware-native execution                        | Assembly / Shader Binary         |
+
+This architecture allows VeraDSL-defined systems to be:
+- **Simulated today** using LLMs + Dex
+- **Composed symbolically** with declarative agent logic
+- **Transpiled later** to VeraNL-compatible IR and executed on specialized NPU chips
+
+> "From archetype to silicon. From invocation to embodiment."
+
+---
+
 ## 🔌 Project Goals
 
 ### ✅ MVP Features
