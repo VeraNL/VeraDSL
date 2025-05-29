@@ -1,0 +1,1 @@
+# For sample VeraDSL archetypes
