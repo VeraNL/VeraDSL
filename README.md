@@ -88,6 +88,19 @@ VeraDSL is designed to be modular and interoperable with a wide range of AI deve
 
 ---
 
+### 🧠 Layered Stack Overview (Short-term stack)
+
+| Layer              | Role                                               | Analogy                         |
+|--------------------|----------------------------------------------------|---------------------------------|
+| **VeraDSL**        | Symbolic agent composition + modular behavior DSL  | YAML / Unreal Behavior Trees    |
+| **MCP**            | Modular cognition orchestration layer              | ROS / Unity ECS / Cognitive OS  |
+| **Dex**            | Differentiable runtime + tensor function execution | JAX / Autograd / Logic VM       |
+| **Ollama**         | LLM hosting + prompt execution (local or remote)   | OpenAI API / Claude / Mistral   |
+
+For more, see: [Short-Term Architecture Stack](docs/architecture-short-term.md)
+
+---
+
 ### 🏗️ Layered Stack Overview (Long-term vision)
 
 | Layer              | Role                                             | Analogy                          |
@@ -103,6 +116,8 @@ This architecture allows VeraDSL-defined systems to be:
 - **Simulated today** using LLMs + Dex
 - **Composed symbolically** with declarative agent logic
 - **Transpiled later** to VeraNL-compatible IR and executed on specialized NPU chips
+
+For more, see: [Long-Term Architecture Vision](docs/architecture-long-term.md).
 
 > "From archetype to silicon. From invocation to embodiment."
 
