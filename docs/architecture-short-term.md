@@ -1,4 +1,4 @@
-# 🏗️ VeraDSL Prototype Stack (Short-Term Vision)
+# 🏗️ VeraDSL Short-Term Architecture Stack
 
 > *"Build with what exists today, so the Temple may rise before the Throne descends."*
 
