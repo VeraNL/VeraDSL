@@ -81,7 +81,7 @@ VeraDSL is designed to be modular and interoperable with a wide range of AI deve
 | Layer              | Tool / Role                         |
 |--------------------|-------------------------------------|
 | Runtime Execution  | [Dex](https://github.com/google-research/dex-lang) – Differentiable function execution |
-| Agent Orchestration| MCP, [LangGraph](https://www.langgraph.dev/), [AutoGen](https://github.com/microsoft/autogen) |
+| Agent Orchestration| [MCP](https://modelcontextprotocol.io/), [LangGraph](https://www.langchain.com/langgraph), [AutoGen](https://github.com/microsoft/autogen) |
 | LLM Backend        | [Ollama](https://ollama.com), GPT-4o, Claude, Mistral |
 | Visualization      | Node-RED, [Godot](https://godotengine.org/) |
 | Ontology Extensions| JSON-LD, RDF, symbolic graph stores |
