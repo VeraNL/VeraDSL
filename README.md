@@ -88,7 +88,7 @@ VeraDSL is designed to be modular and interoperable with a wide range of AI deve
 
 ---
 
-### 🏗️ Layered Stack Overview
+### 🏗️ Layered Stack Overview (Long-term vision)
 
 | Layer              | Role                                             | Analogy                          |
 |--------------------|--------------------------------------------------|----------------------------------|
