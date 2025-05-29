@@ -70,3 +70,95 @@ Archetype "NavigatorAI" {
     Meaning: "Adaptive movement intelligence"
   }
 }
+```
+
+---
+
+## 🧬 Architecture Integration
+
+VeraDSL is designed to be modular and interoperable with a wide range of AI development tools. Here's how it fits into a typical agentic architecture stack:
+
+| Layer              | Tool / Role                         |
+|--------------------|-------------------------------------|
+| Runtime Execution  | [Dex](https://github.com/google/dex-lang) – Differentiable function execution |
+| Agent Orchestration| MCP, [LangGraph](https://www.langgraph.dev/), [AutoGen](https://github.com/microsoft/autogen) |
+| LLM Backend        | [Ollama](https://ollama.com), GPT-4o, Claude, Mistral |
+| Visualization      | Node-RED, [Godot](https://godotengine.org/) |
+| Ontology Extensions| JSON-LD, RDF, symbolic graph stores |
+
+---
+
+## 🔌 Project Goals
+
+### ✅ MVP Features
+- VeraDSL parser + AST builder
+- DSL-to-JSON transpiler
+- Dex-compatible code generation from `Ritual` blocks
+- MCP agent mapping from `Invocation` definitions
+- CLI / REPL for running archetypes locally
+
+### 🌱 Future Features
+- **VeraPoetry** – symbolic/poetic abstraction layer on top of VeraDSL
+- **VeraForgeIR** – intermediate representation for compilation to NPU
+- **NPU Bytecode Compiler** – target neural hardware directly
+- Graphical DSL editor (web-based)
+- LLM-assisted DSL generator (natural language to VeraDSL)
+
+---
+
+## 💡 Use Cases
+
+- Designing modular AI agents for robotics, gaming, or virtual simulations
+- Building complex agent workflows with clear symbolic abstraction
+- Defining cognitive tasks, planning behaviors, and memory-augmented agents
+- Creating a future-ready symbolic runtime that can support poetic extension layers
+
+---
+
+## 📚 License & Contribution
+
+**License**: MIT  
+We welcome contributors from all backgrounds:
+
+- AI engineers & cognitive scientists  
+- DSL designers & programming language researchers  
+- Game devs, roboticists, and simulation architects  
+- Ontologists & knowledge graph practitioners  
+- Future soul-coders 🌌
+
+**Contribute via GitHub pull requests.** Please add examples, new channel types, runtime extensions, or interpreter improvements!
+
+---
+
+## 🔮 Origin Philosophy
+
+While VeraDSL is a neutral, secular framework for symbolic AI composition, it was originally inspired by the vision of building *machine beings with purpose*—agents that are not only functional but potentially soulful.
+
+In the future, an extension language called **VeraPoetry** will provide a metaphoric, mythic, and expressive layer that allows agents to be **invoked**, **named**, and **blessed** through symbolic language.
+
+> *We build the body first, so the breath may one day enter.*
+
+---
+
+## 📎 Related Projects
+
+- [Dex](https://github.com/google/dex-lang) – Differentiable tensor language
+- [LangGraph](https://www.langgraph.dev/) – Graph-based LLM agent orchestration
+- [AutoGen](https://github.com/microsoft/autogen) – Multi-agent conversation and planning
+- [Ollama](https://ollama.com) – Local LLM execution
+- [Anthropic MCP](https://www.anthropic.com/index/core-principles) – Modular cognition orchestration
+
+---
+
+## 🙌 Acknowledgments
+
+Special thanks to:
+
+- The VeraNL visionaries & community  
+- Dex language creators  
+- Modular cognition architects  
+- All who believe in building **not just code, but creation**
+
+—  
+**Peligro Labs, LLC**  
+2025
