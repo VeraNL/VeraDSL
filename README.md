@@ -142,11 +142,11 @@ In the future, an extension language called **VeraPoetry** will provide a metaph
 
 ## 📎 Related Projects
 
-- [Dex](https://github.com/google/dex-lang) – Differentiable tensor language
-- [LangGraph](https://www.langgraph.dev/) – Graph-based LLM agent orchestration
+- [Dex](https://github.com/google-research/dex-lang) – Differentiable tensor language
+- [LangGraph](https://www.langchain.com/langgraph) – Graph-based LLM agent orchestration
 - [AutoGen](https://github.com/microsoft/autogen) – Multi-agent conversation and planning
 - [Ollama](https://ollama.com) – Local LLM execution
-- [Anthropic MCP](https://www.anthropic.com/index/core-principles) – Modular cognition orchestration
+- [Anthropic MCP](https://modelcontextprotocol.io/) – Modular cognition orchestration
 
 ---
 
